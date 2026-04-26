@@ -1,0 +1,116 @@
+2026-04-26 19:32:32,045 - INFO - Use pytorch device_name: mps
+2026-04-26 19:32:32,045 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-04-26 19:32:32,662 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:32,664 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-04-26 19:32:32,698 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:32,962 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:32,998 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:33,273 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:33,317 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:33,684 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:33,718 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-04-26 19:32:34,195 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:34,226 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:34,489 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:34,521 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:34,782 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-04-26 19:32:35,125 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:35,166 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:35,572 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:35,617 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:35,891 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:35,934 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:36,206 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-26 19:32:36,550 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-26 19:32:36,959 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:32:36,998 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-04-26 19:32:37,264 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-04-26 19:32:39,361 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.69:5000
+2026-04-26 19:32:39,362 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-26 19:42:29,281 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:29] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:42:29,294 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:29] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:42:33,987 - INFO - AFC is enabled with max remote calls: 10.
+2026-04-26 19:42:36,724 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-04-26 19:42:36,748 - INFO - Session: af3852bf-506e-4664-ae8f-0c2a1423839b | Query: What is the engineering tuition fee? | Retrieval: 2.44s | Generation: 2.79s
+2026-04-26 19:42:36,751 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:36] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:42:39,876 - INFO - AFC is enabled with max remote calls: 10.
+2026-04-26 19:42:41,762 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-04-26 19:42:41,770 - INFO - Session: af3852bf-506e-4664-ae8f-0c2a1423839b | Query: What engineering branches are available? | Retrieval: 0.23s | Generation: 1.89s
+2026-04-26 19:42:41,773 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:41] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:42:43,996 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:43] "POST /clear_history HTTP/1.1" 200 -
+2026-04-26 19:42:46,370 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:46] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:42:46,376 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:46] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:42:46,656 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:46] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:42:46,672 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:46] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:42:47,404 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:47] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:42:47,408 - INFO - 127.0.0.1 - - [26/Apr/2026 19:42:47] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:43:10,701 - INFO - 127.0.0.1 - - [26/Apr/2026 19:43:10] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:43:10,708 - INFO - 127.0.0.1 - - [26/Apr/2026 19:43:10] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:43:15,870 - INFO - 127.0.0.1 - - [26/Apr/2026 19:43:15] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:43:17,504 - INFO - AFC is enabled with max remote calls: 10.
+2026-04-26 19:43:20,681 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-04-26 19:43:20,687 - INFO - Session: eb6397d9-66ad-4860-a728-0ca5a842fd97 | Query: What are the engineering admission requirements? | Retrieval: 0.48s | Generation: 3.18s
+2026-04-26 19:43:20,690 - INFO - 127.0.0.1 - - [26/Apr/2026 19:43:20] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:43:23,228 - INFO - 127.0.0.1 - - [26/Apr/2026 19:43:23] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:43:28,846 - INFO - AFC is enabled with max remote calls: 10.
+2026-04-26 19:43:30,996 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-04-26 19:43:31,001 - INFO - Session: eb6397d9-66ad-4860-a728-0ca5a842fd97 | Query: location | Retrieval: 0.56s | Generation: 2.16s
+2026-04-26 19:43:31,002 - INFO - 127.0.0.1 - - [26/Apr/2026 19:43:31] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:46:11,040 - INFO - 127.0.0.1 - - [26/Apr/2026 19:46:11] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:46:11,047 - INFO - 127.0.0.1 - - [26/Apr/2026 19:46:11] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:46:19,705 - INFO - 127.0.0.1 - - [26/Apr/2026 19:46:19] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:46:30,091 - INFO - AFC is enabled with max remote calls: 10.
+2026-04-26 19:46:32,651 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-04-26 19:46:32,659 - INFO - Session: dce4b9ee-8743-48ab-b235-c056c80f0d44 | Query: what is the fees | Retrieval: 0.95s | Generation: 2.58s
+2026-04-26 19:46:32,660 - INFO - 127.0.0.1 - - [26/Apr/2026 19:46:32] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:46:43,644 - INFO - 127.0.0.1 - - [26/Apr/2026 19:46:43] "POST /clear_history HTTP/1.1" 200 -
+2026-04-26 19:46:44,484 - INFO - 127.0.0.1 - - [26/Apr/2026 19:46:44] "POST /clear_history HTTP/1.1" 200 -
+2026-04-26 19:46:47,372 - INFO - 127.0.0.1 - - [26/Apr/2026 19:46:47] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:49:25,142 - INFO - Use pytorch device_name: mps
+2026-04-26 19:49:25,143 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-04-26 19:49:25,708 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:25,709 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-04-26 19:49:25,745 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:26,013 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:26,046 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:26,314 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:26,347 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:26,609 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:26,640 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-04-26 19:49:26,903 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:26,943 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:27,210 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:27,253 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:27,526 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-04-26 19:49:27,824 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:27,864 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:28,288 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:28,324 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:28,589 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:28,624 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:28,892 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-04-26 19:49:29,193 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-04-26 19:49:29,544 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-04-26 19:49:29,581 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-04-26 19:49:29,854 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-04-26 19:49:31,807 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.69:5000
+2026-04-26 19:49:31,808 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-26 19:49:34,782 - INFO - 127.0.0.1 - - [26/Apr/2026 19:49:34] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:49:34,800 - INFO - 127.0.0.1 - - [26/Apr/2026 19:49:34] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:49:37,395 - INFO - 127.0.0.1 - - [26/Apr/2026 19:49:37] "[33mGET / HTTP/1.1[0m" 404 -
+2026-04-26 19:50:20,277 - INFO - 127.0.0.1 - - [26/Apr/2026 19:50:20] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:50:20,343 - INFO - 127.0.0.1 - - [26/Apr/2026 19:50:20] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:50:25,497 - INFO - AFC is enabled with max remote calls: 10.
+2026-04-26 19:50:27,766 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-04-26 19:50:27,781 - INFO - Session: 832c40a3-eba9-4bb2-a62c-22063eb52d7f | Query: What are the engineering admission requirements? | Retrieval: 1.02s | Generation: 2.30s
+2026-04-26 19:50:27,783 - INFO - 127.0.0.1 - - [26/Apr/2026 19:50:27] "POST /api HTTP/1.1" 200 -
+2026-04-26 19:50:33,139 - INFO - 127.0.0.1 - - [26/Apr/2026 19:50:33] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:50:33,148 - INFO - 127.0.0.1 - - [26/Apr/2026 19:50:33] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:50:50,064 - INFO - 127.0.0.1 - - [26/Apr/2026 19:50:50] "GET /get_faqs HTTP/1.1" 200 -
+2026-04-26 19:50:50,091 - INFO - 127.0.0.1 - - [26/Apr/2026 19:50:50] "GET /get_faqs HTTP/1.1" 200 -
