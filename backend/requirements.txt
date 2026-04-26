@@ -1,5 +1,7 @@
 flask
 flask-cors
 sentence-transformers
-openai
+google-genai
+numpy
 python-dotenv
+gunicorn
